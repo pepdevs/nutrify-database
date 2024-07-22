@@ -64,10 +64,11 @@
     <DataWriteAllFilesInOneDirectory>True</DataWriteAllFilesInOneDirectory>
   </WriteToFileOptions>
   <DataFileSet>
-    <Count>4</Count>
+    <Count>5</Count>
     <DataFile>dbo.FoodCategory_Data.sql</DataFile>
     <DataFile>dbo.Food_Data.sql</DataFile>
     <DataFile>dbo.MealFood_Data.sql</DataFile>
     <DataFile>dbo.Meal_Data.sql</DataFile>
+    <DataFile>dbo.Micronutrient_Data.sql</DataFile>
   </DataFileSet>
 </DatabaseInformation>
